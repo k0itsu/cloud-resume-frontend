@@ -1,0 +1,41 @@
+body {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+hr {
+  margin: 0px 40px 0px 40px;
+}
+
+a {
+  color: #FFA500;
+}
+
+a:hover {
+  color: #cc8500;
+}
+
+.header {
+  padding: 40px;
+  text-align: center;
+  background: #34568B;
+  color: white;
+}
+
+.experience {
+  padding: 20px 40px 20px 40px;
+}
+
+.skills {
+  padding: 20px 40px 20px 40px;
+}
+
+i.fas,
+i.fab {
+  font-size: 30px;
+  color: white;
+}
